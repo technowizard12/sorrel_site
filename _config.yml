@@ -1,6 +1,6 @@
 # Site settings
-title: "Sorrel Orr Resume"
-description: "A resume for Sorrel Orr, Student Nurse."
+title: "Sorrel Orr's Resume"
+description: "A resume for Sorrel Orr"
 
 # Build settings
 markdown: kramdown
@@ -10,8 +10,8 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Sorrel Orr, BSN"
-resume_title:                   "New Graduate Nurse"
+resume_name:                    "Sorrel D. Orr"
+resume_title:                   "BSN Graduate"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "contact@sorrel.care"
