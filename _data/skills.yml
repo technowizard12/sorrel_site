@@ -3,14 +3,6 @@
 - skill: Registered Nurse License
   description: Washington State Department of Health - RN61377485
 
-# BLS Provider
-- skill: BLS Provider
-  description: American Heart Association
-
 # Reiki
 - skill: Usui/Holy Fire II Reiki First and Second Degrees 
   description: International Center for Reiki Training
-
-# GCP
-- skill: Good Clinical Practice (US FDA Focus)
-  description: CITI Program
