@@ -10,7 +10,7 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Sorrel D. Orr, BSN RN"
+resume_name:                    "Sorrel D. Orr, BSN, RN, HNB-BC"
 resume_title:                   "Registered Nurse"
 
 # used for the contact button in _layouts/resume.html
@@ -49,11 +49,11 @@ resume_social_links:
   # resume_twitter_url:           "http://twitter.com/jglovier"
   # resume_dribbble_url:          "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
-  # resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
-  # resume_instagram_url:         "https://instagram.com/technowizard12/"
+  resume_linkedin_url:          "https://www.linkedin.com/in/sorrel-orr"
+  resume_instagram_url:         "https://instagram.com/technowizard12/"
   # resume_website_url:           "https://sorrel.care"
   # resume_medium_url:            "https://medium.com/@jglovier"
-resume_print_social_links:      false
+resume_print_social_links:      true
 
 # Design settings
 resume_theme:                   default
