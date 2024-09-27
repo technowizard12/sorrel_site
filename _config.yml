@@ -10,7 +10,7 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Sorrel D. Orr, BSN, RN, HNB-BC"
+resume_name:                    "Sorrel D. Orr \n BSN, RN, HNB-BC"
 resume_title:                   "Registered Nurse"
 
 # used for the contact button in _layouts/resume.html
