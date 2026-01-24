@@ -3,10 +3,18 @@
 - skill: Registered Nurse License
   description: Washington State Department of Health - RN61377485
 
+# HNB-BC
+- skill: Holistic Nurse Baccalaureate - Board Certified
+  description: American Holistic Nurses Credentialing Center - 20946 H2
+
+# BLS
+- skill: BLS Provider
+  description: American Heart Association - 261268483155
+
+# BLS
+- skill: Heartsaver First Aid
+  description: American Heart Association - 26130848454
+
 # Reiki
 - skill: Usui/Holy Fire II Reiki First and Second Degrees 
   description: International Center for Reiki Training
-
-# Reiki
-- skill: Holistic Nurse Baccalaureate - Board Certified
-  description: American Holistic Nurses Credentialing Center - 20946 H2
