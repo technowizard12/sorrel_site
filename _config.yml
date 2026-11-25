@@ -14,7 +14,7 @@ resume_name:                    "Sorrel D. Orr, BSN, RN, HNB-BC"
 resume_title:                   "Holistic Registered Nurse"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "contact@sorrel.care"
+resume_contact_email:           "me@sorrel.care"
 
 # the next two items are used for schema itemprops iftn _layouts/resume.html
 resume_contact_telephone:       "(408) 375-2053"
